@@ -1,0 +1,16 @@
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.exe.config
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.exe
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.pdb
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.AssemblyReference.cache
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.exe
+C:\Users\ROG STRIX\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.exe.config
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.exe
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\bin\Debug\servidor.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.AssemblyReference.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.exe
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\servidor\obj\Debug\servidor.pdb

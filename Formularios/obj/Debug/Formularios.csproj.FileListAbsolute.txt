@@ -1,0 +1,17 @@
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\Formularios.exe
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\Clases.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\ConexionDB.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\Clases.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\ConexionDB.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\bin\Debug\ConexionDB.dll.config
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.FormServidor.resources
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.exe
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Formularios\obj\Debug\Formularios.pdb

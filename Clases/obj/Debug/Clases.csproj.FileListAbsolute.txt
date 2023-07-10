@@ -1,0 +1,10 @@
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\bin\Debug\Clases.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\bin\Debug\Clases.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\bin\Debug\ConexionDB.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\bin\Debug\ConexionDB.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\bin\Debug\ConexionDB.dll.config
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\obj\Debug\Clases.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,7 @@
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\bin\Debug\ConexionDB.dll.config
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\bin\Debug\ConexionDB.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\bin\Debug\ConexionDB.pdb
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\obj\Debug\ConexionDB.csproj.AssemblyReference.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\obj\Debug\ConexionDB.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\obj\Debug\ConexionDB.dll
+C:\Users\Edwin Rea\source\repos\PruebaAcumulativa01\ConexionDB\obj\Debug\ConexionDB.pdb

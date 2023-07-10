@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBUsuarios">
+  <DataContextMoniker Name="/DBUsuariosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="232243a1-dd79-47d5-9345-2a4e16703ada" absoluteBounds="0.75, 0.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/DBUsuariosDataContext/listaIP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a354bb1-c3af-4047-b3fa-1b4389ad823f" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2435b527-4d53-463c-b596-ac8a991ef6b3" absoluteBounds="0.75, 2.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DBUsuariosDataContext/usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="71549cbd-d84d-4c54-99d8-ca7f9859ebb9" absoluteBounds="0.765, 3.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

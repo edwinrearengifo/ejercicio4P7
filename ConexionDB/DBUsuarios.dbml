@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="UsuariosPrueba" Class="DBUsuariosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=edwinrea6dell;Initial Catalog=UsuariosPrueba;Integrated Security=True" SettingsObjectName="ConexionDB.Properties.Settings" SettingsPropertyName="UsuariosPruebaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.listaIP" Member="listaIP">
+    <Type Name="listaIP">
+      <Column Name="str_ip" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.usuario" Member="usuario">
+    <Type Name="usuario">
+      <Column Name="int_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="str_status" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="dat_fecha" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="str_nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="str_direccion" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="str_departamento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="int_telefono" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
